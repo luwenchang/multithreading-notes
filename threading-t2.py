@@ -137,7 +137,9 @@ if __name__ == '__main__':
             break
 
 
-
+"""
+后期外部可以通过动态的设置  semaphore_cfg 值即可达到目的
+"""
 
 
 
